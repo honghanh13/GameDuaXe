@@ -1,0 +1,21 @@
+sceneSetups:
+- path: Assets/Scenes/SampleScene.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Assets/Scenes/awakeScene.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Assets/Scenes/ComunityMap.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Assets/Scenes/model.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Assets/Scenes/superMarioMap.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
